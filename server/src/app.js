@@ -29,7 +29,7 @@ const app = express();
 // Replace your old app.use(cors(...)) with this:
 app.use(cors({ 
   origin: [
-    process.env.FRONTEND_URL, 
+    process.env.CLIENT_URL, 
     'http://localhost:5173',
     /\.vercel\.app$/ // This "Regex" allows ANY deployment link from your Vercel project
   ],
