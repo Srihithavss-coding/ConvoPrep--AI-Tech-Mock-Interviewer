@@ -626,7 +626,7 @@ const handleEndInterview = async () => {
         {isSpeaking && (
           <div className="answer-panel-status">
             <p className="answer-panel-status-text">
-              Natalie is speaking... please listen carefully
+              Maya is speaking... please listen carefully
             </p>
           </div>
         )}
@@ -634,7 +634,7 @@ const handleEndInterview = async () => {
           <div className="answer-panel-status">
             <div className="spinner-border spinner-border-sm" role="status" />
             <p className="answer-panel-status-text">
-              Natalie is preparing the next question...
+              Maya is preparing the next question...
             </p>
           </div>
         )}
