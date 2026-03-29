@@ -1,4 +1,4 @@
-import Interview from '../models/Interview.model.js';
+import Interview from '../models/interview.model.js';
 
 export const getUserHistory = async (userId, page = 1, limit = 10) => {
   const skip = (page - 1) * limit;
