@@ -41,7 +41,7 @@ app.use(express.json({ limit: '10mb' }));
 // /api/interview → interview routes (start, answer, feedback)
 // /api/resume    → resume upload and parsing routes
 // /api/history   → interview history routes
-app.use('/https://convoprep-ai-tech-mock-interviewer.onrender.com/api', routes);
+app.use('/api', routes);
 
 // ============================================
 // ERROR HANDLING (must be AFTER routes)
