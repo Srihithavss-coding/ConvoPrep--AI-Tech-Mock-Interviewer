@@ -1,5 +1,8 @@
 # ConvoPrep AI 
 ## The AI-Powered Mock Interview Platform
+## 🚀 Live Demo
+* **Frontend (Vercel):** [https://convo-prep-ai-tech-mock-interviewer.vercel.app](https://convo-prep-ai-tech-mock-interviewer.vercel.app)
+* **Backend API (Render):** [https://convoprep-ai-tech-mock-interviewer.onrender.com](https://convoprep-ai-tech-mock-interviewer.onrender.com)
 
 Interviews are just conversations—but they can still be nerve-wracking. **ConvoPrep AI** simplifies the process by letting you practice with an intelligent LLM that speaks back. With our near real-time voice-to-voice feature, you can rehearse your resume highlights and beyond, turning interview anxiety into effortless confidence.
  
