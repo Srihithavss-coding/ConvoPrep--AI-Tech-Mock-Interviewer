@@ -1,4 +1,4 @@
-import Interview from '../models/Interview.model.js';
+import Interview from '../models/interview.model.js';
 import { askGemini } from './gemini.service.js';
 import { generateAudio } from './murf.service.js';
 import { parseGeminiJSON } from '../utils/prompts.utils.js';
