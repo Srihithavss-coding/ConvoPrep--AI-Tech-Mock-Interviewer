@@ -62,7 +62,7 @@ The platform follows a decoupled architecture with heavy integration of speciali
 
 ---
 
-## 🛠️ Tech Stack & Prerequisites
+## 🛠️ Tech Stack
 
 ### Core Stack
 * **Frontend:** React, Axios
@@ -71,7 +71,7 @@ The platform follows a decoupled architecture with heavy integration of speciali
 
 ### External AI Services
 * **Google Gemini (LLM):** Powers the brain of the interviewer, handling question generation and contextual scoring.
-* **Murf AI (TTS):** Converts text questions into realistic speech from AI interviewer "Natalie".
+* **Murf AI (TTS):** Converts text questions into realistic speech from AI interviewer.
 * **AssemblyAI (STT):** Transcribes your spoken answers back into text for analysis.
 
 ---

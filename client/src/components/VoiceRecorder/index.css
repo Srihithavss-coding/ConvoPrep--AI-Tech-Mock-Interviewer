@@ -9,7 +9,7 @@
   display: flex;
   align-items: center;
   gap: 8px;
-  background-color: #2563eb;
+  background-color: #eba625;
   color: #ffffff;
   border: none;
   border-radius: 8px;
@@ -106,8 +106,8 @@
 
 .vr-rerecord-btn {
   background-color: #ffffff;
-  color: #2563eb;
-  border: 1px solid #2563eb;
+  color: #ebb025;
+  border: 1px solid #ebba25;
   border-radius: 8px;
   padding: 10px 20px;
   font-family: 'Roboto', sans-serif;
@@ -124,7 +124,7 @@
   display: flex;
   align-items: center;
   gap: 8px;
-  background-color: #2563eb;
+  background-color: #ebac25;
   color: #ffffff;
   border: none;
   border-radius: 8px;

@@ -75,11 +75,10 @@ const avgScore =
     <div className="home-page">
       <div className="home-welcome">
         <h1 className="home-welcome-heading">
-          Welcome back, {user?.name?.split(' ')[0]}!
+          Hey, {user?.name?.split(' ')[0]}!
         </h1>
         <p className="home-welcome-subtitle">
-          Practice makes perfect. Start a mock interview and get AI-powered
-          feedback.
+          Practice brings perfection! Start the AI-powered mock interview, get feedback, improve, and comeback stronger.
         </p>
       </div>
 
@@ -107,7 +106,7 @@ const avgScore =
           onClick={() => navigate('/setup')}
         >
           <BsPlayCircleFill className="home-start-icon" />
-          Start New Interview
+          Take New Interview
         </button>
       </div>
 

@@ -275,7 +275,7 @@ const handleEndInterview = async () => {
             <FaUserTie className="interviewer-avatar-icon" />
           </div>
           <div className="interviewer-avatar-info">
-            <span className="interviewer-avatar-name">Natalie</span>
+            <span className="interviewer-avatar-name">Ms. Maya</span>
             <span className="interviewer-avatar-role">AI Interviewer</span>
           </div>
         </div>

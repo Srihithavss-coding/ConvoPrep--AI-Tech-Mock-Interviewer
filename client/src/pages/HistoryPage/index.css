@@ -35,7 +35,7 @@
 .history-heading {
   font-family: "Bree Serif", serif;
   font-size: 28px;
-  color: #0f172a;
+  color: #2a1d0f;
   margin: 0;
 }
 
@@ -43,7 +43,7 @@
   font-family: "Roboto", sans-serif;
   font-size: 13px;
   font-weight: 600;
-  color: #2563eb;
+  color: #eb8f25;
   background-color: #dbeafe;
   padding: 4px 12px;
   border-radius: 12px;
@@ -102,7 +102,7 @@
 .history-empty-heading {
   font-family: "Bree Serif", serif;
   font-size: 20px;
-  color: #0f172a;
+  color: #2a200f;
   margin: 0;
 }
 
@@ -118,7 +118,7 @@
   font-size: 15px;
   font-weight: 600;
   padding: 12px 28px;
-  background-color: #2563eb;
+  background-color: #eba925;
   color: #ffffff;
   border: none;
   border-radius: 8px;
@@ -148,8 +148,8 @@
   font-weight: 600;
   padding: 8px 20px;
   background-color: #ffffff;
-  color: #2563eb;
-  border: 2px solid #2563eb;
+  color: #ebc025;
+  border: 2px solid #ebc325;
   border-radius: 6px;
   cursor: pointer;
 }

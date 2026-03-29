@@ -21,7 +21,7 @@ function Navbar() {
       <div className="navbar-left">
         <Link to="/" className="navbar-brand">
           <BsCameraVideo className="brand-icon" />
-          <span className="brand-text">AI Mock Interview</span>
+          <span className="brand-text">ConvoPrep AI</span>
         </Link>
         <div className="nav-links">
           <Link

@@ -66,7 +66,7 @@ function LoginPage() {
       <nav className="login-nav">
         <div className="login-nav-brand">
           <BsCameraVideo className="login-nav-icon" />
-          <span className="login-nav-name">AI Mock Interview</span>
+          <span className="login-nav-name">ConvoPrep AI</span>
         </div>
       </nav>
 
@@ -88,7 +88,7 @@ function LoginPage() {
           </div>
           <div className="login-hero-pill">
             <BsFileEarmarkTextFill className="login-pill-icon" />
-            <span className="login-pill-text">Resume Analysis</span>
+            <span className="login-pill-text">Resume-Based</span>
           </div>
           <div className="login-hero-pill">
             <BsCodeSlash className="login-pill-icon" />
@@ -96,7 +96,7 @@ function LoginPage() {
           </div>
           <div className="login-hero-pill">
             <BsBarChartFill className="login-pill-icon" />
-            <span className="login-pill-text">AI Scoring</span>
+            <span className="login-pill-text">AI Feedback & Evaluation</span>
           </div>
         </div>
       </div>

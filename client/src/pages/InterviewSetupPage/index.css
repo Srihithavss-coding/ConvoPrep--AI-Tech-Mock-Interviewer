@@ -29,9 +29,9 @@
 }
 
 .setup-step-active {
-  background-color: #2563eb;
+  background-color: #ebca25;
   color: #ffffff;
-  border-color: #2563eb;
+  border-color: #ebac25;
 }
 
 .setup-section {
@@ -41,7 +41,7 @@
 .setup-section-heading {
   font-family: 'Bree Serif', serif;
   font-size: 20px;
-  color: #0f172a;
+  color: #2a210f;
   margin: 0 0 20px 0;
 }
 
@@ -65,20 +65,20 @@
 }
 
 .setup-role-selected {
-  border-color: #2563eb;
+  border-color: #eba625;
   background-color: #dbeafe;
 }
 
 .setup-role-icon {
   font-size: 28px;
-  color: #2563eb;
+  color: #ebbd25;
 }
 
 .setup-role-title {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
   font-weight: 700;
-  color: #0f172a;
+  color: #2a230f;
   margin: 0;
 }
 
@@ -110,7 +110,7 @@
 }
 
 .setup-difficulty-selected {
-  border-color: #2563eb;
+  border-color: #eba625;
   background-color: #dbeafe;
 }
 
@@ -121,7 +121,7 @@
 }
 
 .setup-star-filled {
-  color: #2563eb;
+  color: #eb9c25;
 }
 
 .setup-star-empty {
@@ -194,7 +194,7 @@
 
 .setup-resume-file-icon {
   font-size: 24px;
-  color: #2563eb;
+  color: #eb8f25;
 }
 
 .setup-resume-name {
@@ -238,7 +238,7 @@
 
 .setup-next-btn {
   padding: 12px 28px;
-  background-color: #2563eb;
+  background-color: #ebc025;
   color: #ffffff;
   border: none;
   border-radius: 8px;
@@ -251,7 +251,7 @@
 .setup-start-btn {
   width: 100%;
   padding: 14px 24px;
-  background-color: #2563eb;
+  background-color: #ebb325;
   color: #ffffff;
   border: none;
   border-radius: 8px;
@@ -277,7 +277,7 @@
 }
 
 .setup-preparing-spinner {
-  color: #2563eb;
+  color: #ebbd25;
   width: 48px;
   height: 48px;
 }

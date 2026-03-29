@@ -16,7 +16,7 @@
   width: 64px;
   height: 64px;
   border-radius: 50%;
-  background-color: #2563eb;
+  background-color: #eb9c25;
   color: #ffffff;
   border: none;
   cursor: pointer;
@@ -31,7 +31,7 @@
 }
 
 .cm-mic-active {
-  background-color: #1d4ed8;
+  background-color: #d8901d;
 }
 
 .cm-mic-icon {
@@ -49,12 +49,12 @@
 }
 
 .cm-status-listening {
-  color: #2563eb;
+  color: #eb9525;
   font-weight: 600;
 }
 
 .cm-status-countdown {
-  color: #d97706;
+  color: #d96c06;
   font-weight: 600;
 }
 
@@ -88,12 +88,12 @@
   font-family: 'Roboto', sans-serif;
   font-size: 15px;
   line-height: 1.6;
-  color: #334155;
+  color: #6c5b40;
   min-height: 60px;
 }
 
 .cm-transcript-final {
-  color: #0f172a;
+  color: #2a1d0f;
 }
 
 .cm-transcript-interim {
@@ -113,7 +113,7 @@
 }
 
 .cm-submit-btn {
-  background-color: #2563eb;
+  background-color: #eb8f25;
   color: #ffffff;
   border: none;
   border-radius: 8px;
@@ -130,8 +130,8 @@
 
 .cm-speak-again-btn {
   background-color: #ffffff;
-  color: #2563eb;
-  border: 1px solid #2563eb;
+  color: #eb8f25;
+  border: 1px solid #eba925;
   border-radius: 8px;
   padding: 10px 24px;
   font-family: 'Roboto', sans-serif;
@@ -140,7 +140,7 @@
 }
 
 .cm-start-btn {
-  background-color: #2563eb;
+  background-color: #eb9225;
   color: #ffffff;
   border: none;
   border-radius: 8px;

@@ -33,19 +33,19 @@
 
 .login-nav-icon {
   font-size: 22px;
-  color: #2563eb;
+  color: #eb9225;
 }
 
 .login-nav-name {
-  font-family: "Bree Serif", serif;
+  font-family: "Poppins";
   font-size: 18px;
-  font-weight: 700;
-  color: #0f172a;
+  font-weight: 800;
+  color: #2a1d0f;
 }
 
 /* ---- Hero Banner (Dark Section) ---- */
 .login-hero {
-  background-color: #0f172a;
+  background-color: #2a1f0f;
   padding: 56px 32px 72px 32px;
   text-align: center;
 }
@@ -84,7 +84,7 @@
   display: flex;
   align-items: center;
   gap: 8px;
-  background-color: #1d4ed8;
+  background-color: #d87a1d;
   padding: 8px 16px;
   border-radius: 100px;
 }
@@ -149,9 +149,9 @@
 }
 
 .login-tab-active {
-  color: #2563eb;
+  color: #eb8825;
   background-color: #ffffff;
-  border-bottom-color: #2563eb;
+  border-bottom-color: #eb8f25;
 }
 
 /* Form body */
@@ -192,7 +192,7 @@
 .login-submit {
   width: 100%;
   padding: 14px;
-  background-color: #2563eb;
+  background-color: #eb9225;
   color: #ffffff;
   border-style: none;
   border-radius: 8px;
@@ -225,7 +225,7 @@
 
 .login-trust-icon {
   font-size: 16px;
-  color: #2563eb;
+  color: #eb9525;
 }
 
 .login-trust-text {
